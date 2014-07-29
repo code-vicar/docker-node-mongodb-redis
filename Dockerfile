@@ -1,6 +1,6 @@
 # DOCKER-VERSION 1.1.1
 
-FROM svickers/node-mongodb
+FROM svickers/node-mongodb:1.2
 
 # File Author / Maintainer
 MAINTAINER Scott Vickers
